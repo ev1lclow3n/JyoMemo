@@ -1,0 +1,6 @@
+{
+  "name": "Jyoti's Thoughts",
+  "description": "A minimalist, visual notes app for Jyoti's thoughts with a realistic flickering butterfly backdrop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
